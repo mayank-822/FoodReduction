@@ -1,4 +1,3 @@
-
 {
   "name": "FoodReduction-tests",
   "version": "1.0.0",
@@ -13,10 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hirosystems/clarinet-sdk": "^3.0.2",
     "@stacks/transactions": "^7.0.6",
+    "assert": "^2.1.0",
     "chokidar-cli": "^3.0.0",
     "vitest": "^3.1.3",
     "vitest-environment-clarinet": "^2.3.0"
+  },
+  "devDependencies": {
+    "@hirosystems/clarinet-sdk": "^3.5.0",
+    "@types/node": "^24.3.0"
   }
 }
