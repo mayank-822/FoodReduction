@@ -54,21 +54,9 @@ The platform leverages blockchain technology to ensure transparency, trust, and 
 - **Sustainability Certification**: Develop industry standards for food waste reduction
 
 ## Contract Address Details
+<img width="1891" height="919" alt="Screenshot 2025-08-26 120631" src="https://github.com/user-attachments/assets/a8356d16-2d8c-4f47-9379-b7a912c4511f" />
 
-**Network**: Stacks Mainnet  
-**Contract Address**:  https://explorer.hiro.so/txid/ST5D6GJKT9S6J3HTKP7XF2G9AS1WSNTKSK5G9YCJ.FoodReduction?chain=testnet
-**Contract Name**: food-waste-reduction  
-**Token Address**: [Food Reward Token address - To be added after deployment]  
-**Deployment Transaction**: [To be added after deployment]  
-**Deployed By**: [Contract owner address - To be added after deployment]  
-**Deployment Date**: [To be added after deployment]  
 
-### Testnet Details
-**Testnet Contract Address**: [To be added after testnet deployment]  
-**Testnet Explorer Link**: [To be added after testnet deployment]
+**Contract Address**:  ST5D6GJKT9S6J3HTKP7XF2G9AS1WSNTKSK5G9YCJ.FoodReduction
 
----
-
-*Last Updated: [Date to be added]  
-Version: 1.0.0  
-License: MIT*
+**Contract Name**: FoodReduction    
