@@ -54,9 +54,11 @@ The platform leverages blockchain technology to ensure transparency, trust, and 
 - **Sustainability Certification**: Develop industry standards for food waste reduction
 
 ## Contract Address Details
+
+Contract Id:  ST5D6GJKT9S6J3HTKP7XF2G9AS1WSNTKSK5G9YCJ.FoodReduction
 <img width="1891" height="919" alt="Screenshot 2025-08-26 120631" src="https://github.com/user-attachments/assets/a8356d16-2d8c-4f47-9379-b7a912c4511f" />
 
 
-**Contract Address**:  ST5D6GJKT9S6J3HTKP7XF2G9AS1WSNTKSK5G9YCJ.FoodReduction
 
-**Contract Name**: FoodReduction    
+
+   
